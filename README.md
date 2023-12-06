@@ -12,7 +12,5 @@ I'm a Frontend Software Engineer who is passionate about sharing knowledge, docu
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Junior - Mid level).
 - 📫 You can contact me by emailing ezeadetuwo@gmail.com
 
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhikky&show_icons=true&include_all_commits=true&hide_border=true" alt="Zhikky's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhikky&langs_count=8&layout=compact&hide_border=true" alt="Zhikky's GitHub stats" /> |
+---| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhikky&langs_count=8&layout=compact&hide_border=true" alt="Zhikky's GitHub stats" /> |
 | ------------- | ------------- |
