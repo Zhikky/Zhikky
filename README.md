@@ -13,4 +13,3 @@ I'm a Frontend Software Engineer who is passionate about sharing knowledge, docu
 - 📫 You can contact me by emailing ezeadetuwo@gmail.com
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhikky&langs_count=8&layout=compact&hide_border=true" alt="Zhikky's GitHub stats" /> |
-| ------------- | ------------- |
