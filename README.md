@@ -7,9 +7,9 @@ I'm a Frontend Software Engineer who is passionate about sharing knowledge, docu
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 My tech stacks include JavaScript, Reactjs, and Vuejs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Junior - Mid level).
+- 🌱 My tech stacks include JavaScript, Reactjs, TypeScript, Vuejs, and lots more.
+- 😊 I’m passionate about creating stunning web applications with outstanding user experiences.
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer ( Mid level).
 - 📫 You can contact me by emailing ezeadetuwo@gmail.com
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhikky&langs_count=8&layout=compact&hide_border=true" alt="Zhikky's GitHub stats" /> |
